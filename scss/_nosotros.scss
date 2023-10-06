@@ -1,0 +1,21 @@
+.main-nosotros {
+    border: 3px solid $color-naranja;
+    color: $color-blanco;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: "Futura Bold Italic";
+    margin: 80px 15px;
+    padding: 20px;
+  }
+  
+  .div-nosotros h1 {
+    font-size: 40px;
+    background-color: $color-naranja;
+  }
+  
+  .nosotros-p {
+    color: $color-blanco;
+    padding: 10%;
+    background-image: url(../img/Fondos\ Nosotros\ 1.jpg);
+  }
